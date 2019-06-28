@@ -6,5 +6,9 @@ The widespread use of computers and the advent of the Internet has made it easie
 
 this project trains a plagiarism detection model using AWS SageMaker 
 
+
 Udacity Git Commit Message Style Guide
 http://udacity.github.io/git-styleguide/
+
+Plagiarism Detection Wikipedia Description
+https://en.wikipedia.org/wiki/Plagiarism_detection
