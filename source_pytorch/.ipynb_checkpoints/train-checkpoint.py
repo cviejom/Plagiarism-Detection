@@ -48,7 +48,6 @@ def _get_train_data_loader(batch_size, training_dir):
     print('train_y: ', train_y)
     train_x = torch.from_numpy(train_data.drop([0], axis=1).values).float()
     print('train_x: ', train_x)
-    
     print('Training set shape: ', train_data.shape)
     
     train_ds = torch.utils.data.TensorDataset(train_x, train_y)
