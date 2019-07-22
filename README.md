@@ -27,7 +27,8 @@ this project trains a plagiarism detection model using AWS SageMaker
 
 Data
 ----
-...
+The project data is locates in the following folder: [Project Data](https://github.com/cviejom/Plagiarism-Detection/tree/master/data)<br>
+There is also Train and Test files utilized during the training and validation stages [Train & Test Data](https://github.com/cviejom/Plagiarism-Detection/tree/master/plagiarism_data)<br>
 
 
 Project Details
